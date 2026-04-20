@@ -1,0 +1,7 @@
+{
+  "name": "PneumoScan Chest X-Ray Diagnosis System",
+  "description": "An AI-powered diagnostic platform that classifies medical images (X-rays, MRIs, CT scans) to assist radiologists in identifying diseases with high precision and speed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
